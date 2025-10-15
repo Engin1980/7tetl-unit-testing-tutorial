@@ -90,6 +90,3 @@ This will execute all tests (JUnit, jqwik) and display which tests passed or fai
 * Related course / materials available at: [https://engin.gitbook.io/7tetl](https://engin.gitbook.io/7tetl) ([github.com](https://github.com/Engin1980/7tetl-unit-testing-tutorial))
 * Have improvements or suggestions? Feel free to open a pull request or an issue.
 
----
-
-*(Note: This README can be customized to include specific test class details, sample outputs, or code snippets.)*
